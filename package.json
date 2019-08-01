@@ -1,5 +1,5 @@
 {
-  "name": "y",
+  "name": "All-the-News-That-s-Fit-to-Scrap",
   "version": "1.0.0",
   "description": "A web app that lets users view and leave comments on the latest news. ",
   "main": "server.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marjika/Mongoose-Scraper.git"
+    "url": "git+https://github.com/diego-maquill/All-the-News-That-s-Fit-to-Scrap"
   },
   "author": "Marjika Howarth",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/marjika/Mongoose-Scraper/issues"
+    "url": "https://github.com/diego-maquill/All-the-News-That-s-Fit-to-Scrap"
   },
-  "homepage": "https://github.com/marjika/Mongoose-Scraper#readme",
+  "homepage": "https://github.com/diego-maquill/All-the-News-That-s-Fit-to-Scrap",
   "dependencies": {
     "body-parser": "^1.18.3",
     "cheerio": "^1.0.0-rc.2",
