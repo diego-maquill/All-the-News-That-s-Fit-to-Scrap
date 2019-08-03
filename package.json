@@ -1,5 +1,5 @@
 {
-  "name": "All-the-News-That-s-Fit-to-Scrap",
+  "name": "y",
   "version": "1.0.0",
   "description": "A web app that lets users view and leave comments on the latest news. ",
   "main": "server.js",
@@ -11,13 +11,14 @@
     "type": "git",
     "url": "git+https://github.com/diego-maquill/All-the-News-That-s-Fit-to-Scrap"
   },
-  "author": "Marjika Howarth",
+  "author": "Diego Maquill",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/diego-maquill/All-the-News-That-s-Fit-to-Scrap"
   },
   "homepage": "https://github.com/diego-maquill/All-the-News-That-s-Fit-to-Scrap",
   "dependencies": {
+    "array-unique": "^0.3.2",
     "body-parser": "^1.18.3",
     "cheerio": "^1.0.0-rc.2",
     "express": "^4.16.3",
