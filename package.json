@@ -4,11 +4,12 @@
   "description": "A web app that lets users view and leave comments on the latest news. ",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/diego-maquill/All-the-News-That-s-Fit-to-Scrap"
+    "url": "git+https://github.com/diego-maquill/All-the-News-That-s-Fit-to-Scrap.git"
   },
   "author": "Diego Maquill",
   "license": "ISC",
@@ -25,5 +26,7 @@
     "mongoose": "^5.2.9",
     "morgan": "^1.9.0",
     "request": "^2.88.0"
-  }
+  },
+  "devDependencies": {},
+  "keywords": []
 }
