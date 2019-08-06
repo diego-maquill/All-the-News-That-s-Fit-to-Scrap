@@ -42,7 +42,7 @@ app.set("view engine", "handlebars");
 mongoose.Promise = Promise;
 mongoose.connect(
   process.env.MONGODB_URI || "mongodb://diego-scraper:panzonito8@ds259207.mlab.com:59207/heroku_6pj09h1g", {
-    useMongoClient: true
+    useNewUrlParser: true
   });
 var results = [];
 
